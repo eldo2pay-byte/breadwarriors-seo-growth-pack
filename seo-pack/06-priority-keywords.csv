@@ -1,0 +1,32 @@
+priority,keyword,language,intent,target_url
+1,game marketplace,en,commercial,/
+1,marketplace for games,en,commercial,/
+1,buy game accounts,en,transactional,/game-accounts
+1,sell game accounts,en,transactional,/sell-game-accounts
+1,low commission gaming marketplace,en,commercial,/sell
+1,1% fee gaming marketplace,en,commercial,/
+1,G2G alternative,en,comparison,/alternatives/g2g-alternative
+1,FunPay alternative,en,comparison,/alternatives/funpay-alternative
+1,Eldorado alternative,en,comparison,/alternatives/eldorado-alternative
+1,Bynogame alternative,en,comparison,/alternatives/bynogame-alternative
+1,buy WoW gold,en,transactional,/game/world-of-warcraft/gold
+1,buy OSRS gold,en,transactional,/game/osrs/gold
+1,buy Albion Online silver,en,transactional,/game/albion-online/silver
+1,buy Valorant account,en,transactional,/game/valorant/accounts
+1,buy CS2 skins,en,transactional,/game/counter-strike-2/skins
+1,oyun pazarı,tr,commercial,/tr/
+1,oyun hesabı satın al,tr,transactional,/tr/oyun-hesabi-satin-al
+1,oyun hesabı sat,tr,transactional,/tr/oyun-hesabi-sat
+1,Knight Online GB satın al,tr,transactional,/tr/game/knight-online/gb
+1,Metin2 won satın al,tr,transactional,/tr/game/metin2/won
+1,Valorant VP satın al,tr,transactional,/tr/game/valorant/vp
+1,Steam bakiye satın al,tr,transactional,/tr/gift-cards/steam
+1,игровой маркетплейс,ru,commercial,/ru/
+1,купить игровой аккаунт,ru,transactional,/ru/buy-game-accounts
+1,продать игровой аккаунт,ru,transactional,/ru/sell-game-accounts
+2,buy Roblox items,en,transactional,/game/roblox/items
+2,buy Fortnite account,en,transactional,/game/fortnite/accounts
+2,buy Diablo 4 gold,en,transactional,/game/diablo-4/gold
+2,buy Path of Exile currency,en,transactional,/game/path-of-exile/currency
+2,buy Genshin Impact account,en,transactional,/game/genshin-impact/accounts
+2,buy PUBG Mobile UC,en,transactional,/game/pubg-mobile/uc
